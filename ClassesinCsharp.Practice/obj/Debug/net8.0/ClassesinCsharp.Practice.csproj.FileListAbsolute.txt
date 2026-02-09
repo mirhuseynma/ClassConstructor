@@ -1,0 +1,14 @@
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\bin\Debug\net8.0\ClassesinCsharp.Practice.exe
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\bin\Debug\net8.0\ClassesinCsharp.Practice.deps.json
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\bin\Debug\net8.0\ClassesinCsharp.Practice.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\bin\Debug\net8.0\ClassesinCsharp.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\bin\Debug\net8.0\ClassesinCsharp.Practice.pdb
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ClassesinCsharp.Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ClassesinCsharp.Practice.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ClassesinCsharp.Practice.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ClassesinCsharp.Practice.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ClassesinCsharp.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\refint\ClassesinCsharp.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ClassesinCsharp.Practice.pdb
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ClassesinCsharp.Practice.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\ClassesinCsharp\ClassesinCsharp.Practice\obj\Debug\net8.0\ref\ClassesinCsharp.Practice.dll
