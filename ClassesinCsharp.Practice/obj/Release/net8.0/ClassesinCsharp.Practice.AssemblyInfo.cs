@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassesinCsharp.Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c190016ebc8f82ce0ab3273852ac13889f1ef5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c81fcb3af486aa76e985a460d2600730909ba63")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassesinCsharp.Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassesinCsharp.Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
