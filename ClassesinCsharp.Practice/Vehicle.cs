@@ -19,10 +19,10 @@ namespace ClassesinCsharp.Practice
        {
            WehicleYear = year;
        }
-       public Vehicle(string color, int year, string model, double fuelCapacity, double fuelFor1km, int currentFuel)
+       public Vehicle(string color, int year, string model, double fuelCapacity, double fuelFor1km, int currentFuel):this(year)
        {
            ColorOfWehicle = color;
-           WehicleYear = year;
+           //WehicleYear = year;
            WehicleModel = model;
            FuelCapacity = fuelCapacity;
            FuelFor1km = fuelFor1km;
