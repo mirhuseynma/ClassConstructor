@@ -53,13 +53,13 @@ public class Game
 
 	public void WishList(bool yesOrNo)
 	{
-		if (yesOrNo) Console.WriteLine($"{GameName} istek listinize elave edildi.");
-		else Console.WriteLine($"{GameName} oyunu istek listinizden silindi");
+		if (yesOrNo) Console.WriteLine($"{GameName} istediklerim listine elave edildi.");
+		else Console.WriteLine($"{GameName} oyunu istediklerim listinden silindi");
 	}
 
 	public void CustomersNotes(bool yesOrNo)
 	{
-		if (yesOrNo) Console.WriteLine("Bu oyun butun yaş qrupları uçun uygun olmayan mezmun ola biler");
+		if (yesOrNo) Console.WriteLine("Bu oyun butun yash qrupları uchun uygun olmayan mezmun ola biler");
 		else Console.WriteLine(" ");
 	}
 
