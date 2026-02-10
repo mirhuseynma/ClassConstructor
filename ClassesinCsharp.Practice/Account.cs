@@ -10,15 +10,16 @@ public class Account
 		UserName = username;
 	}
 
-	public Account(string username, string password) 
+	public Account(string username, string password):this(username)
 	{
-		UserName = username;
+		
 		Password = password;
 	}
 
 	public void ShowInfo()
 	{
-		if (UserName == "lorem123" && Password == "123456") Console.WriteLine("Giris ugurludur");
+		if (UserName == " " || Password == " ") Console.WriteLine("Istifadeci adi ve ya shifre bosh ola bilmez");
+		else if (UserName == "lorem123" && Password == "123456") Console.WriteLine("Giris ugurludur");
 		else Console.WriteLine("Istifadeci adi ve ya shifre yalnisdir.");
     }
 }
